@@ -1,0 +1,33 @@
+{
+  "name": "paper-elements",
+  "version": "0.8.0",
+  "homepage": "https://github.com/PolymerElements/paper-elements",
+  "authors": [
+    "The Polymer Authors"
+  ],
+  "description": "\"Paper elements are a set of visual elements that implement Google's Material Design.\"",
+  "main": "\"paper-elements.html\"",
+  "keywords": [
+    "web-components",
+    "polymer"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-card": "PolymerElements/paper-card#^0.8.0",
+    "paper-drawer-panel": "PolymerElements/paper-drawer-panel#^0.8.0",
+    "paper-header-panel": "PolymerElements/paper-header-panel#^0.8.0",
+    "paper-item": "PolymerElements/paper-item#^0.8.0",
+    "paper-menu": "PolymerElements/paper-menu#^0.8.0",
+    "paper-radio-button": "PolymerElements/paper-radio-button#^0.8.0",
+    "paper-ripple": "PolymerElements/paper-ripple#^0.8.0",
+    "paper-styles": "PolymerElements/paper-styles#^0.8.0",
+    "paper-toolbar": "PolymerElements/paper-toolbar#^0.8.0"
+  }
+}
