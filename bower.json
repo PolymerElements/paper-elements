@@ -1,6 +1,6 @@
 {
   "name": "paper-elements",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "homepage": "https://github.com/PolymerElements/paper-elements",
   "authors": [
     "The Polymer Authors"
@@ -9,7 +9,8 @@
   "main": "\"paper-elements.html\"",
   "keywords": [
     "web-components",
-    "polymer"
+    "polymer",
+    "paper"
   ],
   "license": "BSD",
   "ignore": [
@@ -23,6 +24,7 @@
     "paper-behaviors": "PolymerElements/paper-behaviors#^0.9.0",
     "paper-button": "PolymerElements/paper-button#^0.9.0",
     "paper-checkbox": "PolymerElements/paper-checkbox#^0.9.0",
+    "paper-dialog": "PolymerElements/paper-dialog#^0.9.0",
     "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^0.9.0",
     "paper-drawer-panel": "PolymerElements/paper-drawer-panel#^0.9.0",
     "paper-fab": "PolymerElements/paper-fab#^0.9.0",
@@ -32,9 +34,11 @@
     "paper-item": "PolymerElements/paper-item#^0.9.0",
     "paper-material": "PolymerElements/paper-material#^0.9.0",
     "paper-menu": "PolymerElements/paper-menu#^0.9.0",
+    "paper-progress": "PolymerElements/paper-progress#^0.9.0",
     "paper-radio-button": "PolymerElements/paper-radio-button#^0.9.0",
     "paper-radio-group": "PolymerElements/paper-radio-group#^0.9.0",
     "paper-ripple": "PolymerElements/paper-ripple#^0.9.0",
+    "paper-slider": "PolymerElements/paper-slider#^0.9.0",
     "paper-spinner": "PolymerElements/paper-spinner#^0.9.0",
     "paper-styles": "PolymerElements/paper-styles#^0.9.0",
     "paper-tabs": "PolymerElements/paper-tabs#^0.9.0",
