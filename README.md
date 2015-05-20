@@ -9,7 +9,7 @@ The paper elements are a set of UI components designed to implement Google's [ma
 * `paper-dropdown-menu` - a dropdown menu
 
 ### Elements planned
-_Elements we're hoping to get to in a month or so_
+_Elements we're planning on building soon but haven't started yet_
 
 [Currently focused on getting all elements up to speed]
 
