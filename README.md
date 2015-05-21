@@ -11,6 +11,8 @@ The paper elements are a set of UI components designed to implement Google's [ma
 ### Elements planned
 _Elements we're planning on building soon but haven't started yet_
 
+* `paper-tooltip` - a hover tooltip
+
 [Currently focused on getting all elements up to speed]
 
 ### Elements not planned, notably
