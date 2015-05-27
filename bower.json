@@ -25,6 +25,7 @@
     "paper-button": "PolymerElements/paper-button#^0.9.0",
     "paper-checkbox": "PolymerElements/paper-checkbox#^0.9.0",
     "paper-dialog": "PolymerElements/paper-dialog#^0.9.0",
+    "paper-dialog-behavior": "PolymerElements/paper-dialog-behavior#^0.9.0",
     "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^0.9.0",
     "paper-drawer-panel": "PolymerElements/paper-drawer-panel#^0.9.0",
     "paper-fab": "PolymerElements/paper-fab#^0.9.0",
