@@ -12,8 +12,7 @@ The paper elements are a set of UI components designed to implement Google's [ma
 _Elements we're planning on building soon but haven't started yet_
 
 * `paper-tooltip` - a hover tooltip
-
-[Currently focused on getting all elements up to speed]
+* `paper-submenu` - a submenu
 
 ### Elements not planned, notably
 _Elements we're not planning on building as part of this product line, but that one might be wondering about_
