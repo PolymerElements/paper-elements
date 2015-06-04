@@ -13,6 +13,7 @@ _Elements we're planning on building soon but haven't started yet_
 
 * `paper-tooltip` - a hover tooltip
 * `paper-submenu` - a submenu
+* `paper-chip` - a [material design chip](http://www.google.com/design/spec/components/chips.html)
 
 ### Elements not planned, notably
 _Elements we're not planning on building as part of this product line, but that one might be wondering about_
