@@ -18,4 +18,4 @@ _Elements we're planning on building soon but haven't started yet_
 ### Elements not planned, notably
 _Elements we're not planning on building as part of this product line, but that one might be wondering about_
 
-[None]
+* `paper-shadow` - this behavior is now provided by [`paper-material`](https://github.com/polymerelements/paper-material)
