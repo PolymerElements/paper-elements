@@ -8,11 +8,11 @@ The paper elements are a set of UI components designed to implement Google's [ma
 
 * `paper-dropdown-menu` - a dropdown menu
 * `paper-card` - a material design-style card
+* `paper-tooltip` - a hover tooltip
 
 ### Elements planned
 _Elements we're planning on building soon but haven't started yet_
 
-* `paper-tooltip` - a hover tooltip
 * `paper-submenu` - a submenu
 * `paper-chip` - a [material design chip](http://www.google.com/design/spec/components/chips.html)
 * `paper-data-table` - a [material design data table](http://www.google.com/design/spec/components/data-tables.html). This one is very complex, and tentatively planned for the mid- to distant-future (i.e. months not weeks)
