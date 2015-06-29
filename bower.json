@@ -6,7 +6,6 @@
     "The Polymer Authors"
   ],
   "description": "Paper elements are a set of visual elements that implement Google's Material Design.",
-  "main": "paper-elements.html",
   "keywords": [
     "web-components",
     "polymer",
