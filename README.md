@@ -4,6 +4,11 @@ The paper elements are a set of UI components designed to implement Google's [ma
 
 ## Roadmap
 
+### Elements recently released
+
+* [`paper-menu-button`](https://github.com/polymerelements/paper-menu-button) - A button that opens up a menu overlay
+* [`paper-tooltip`](https://github.com/polymerelements/paper-tooltip) - A tooltip that shows on hover
+
 ### Elements in progress
 
 * `paper-dropdown-menu` - a dropdown menu
