@@ -10,10 +10,11 @@ The paper elements are a set of UI components designed to implement Google's [ma
 * [`paper-tooltip`](https://github.com/polymerelements/paper-tooltip) - A tooltip that shows on hover
 * [`paper-badge`](https://github.com/polymerelements/paper-badge) - A circular text badge representing a status or notification
 * [`paper-card`](https://github.com/polymerelements/paper-card) - A material design-style card
+* [`paper-dropdown-menu`](https://github.com/polymerelements/paper-dropdown-menu) - A material design-style browser select element
 
 ### Elements in progress
 
-* `paper-dropdown-menu` - a dropdown menu
+* 
 
 ### Elements planned
 _Elements we're planning on building soon but haven't started yet_
