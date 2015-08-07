@@ -11,6 +11,7 @@ The paper elements are a set of UI components designed to implement Google's [ma
 * [`paper-badge`](https://github.com/polymerelements/paper-badge) - A circular text badge representing a status or notification
 * [`paper-card`](https://github.com/polymerelements/paper-card) - A material design-style card
 * [`paper-dropdown-menu`](https://github.com/polymerelements/paper-dropdown-menu) - A material design-style browser select element
+* [`paper-submenu`](https://github.com/polymerelements/paper-menu) - A material design-style menu with nestable subsections 
 
 ### Elements in progress
 
@@ -19,7 +20,6 @@ The paper elements are a set of UI components designed to implement Google's [ma
 ### Elements planned
 _Elements we're planning on building soon but haven't started yet_
 
-* `paper-submenu` - a submenu
 * `paper-chip` - a [material design chip](http://www.google.com/design/spec/components/chips.html)
 * `paper-data-table` - a [material design data table](http://www.google.com/design/spec/components/data-tables.html). This one is very complex, and tentatively planned for the mid- to distant-future (i.e. months not weeks)
 
