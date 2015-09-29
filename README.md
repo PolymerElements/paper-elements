@@ -15,7 +15,7 @@ The paper elements are a set of UI components designed to implement Google's [ma
 
 ### Elements in progress
 
-* 
+We're currently working hard on honing existing elements and fixing open issues. 
 
 ### Elements planned
 _Elements we're planning on building soon but haven't started yet_
