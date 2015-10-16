@@ -6,6 +6,7 @@ The paper elements are a set of UI components designed to implement Google's [ma
 
 ### Elements recently released
 
+* [`paper-listbox`](https://github.com/polymerelements/paper-listbox) - An alternative to `paper-menu` with a different interface, with much better accessibility and performance.
 * [`paper-menu-button`](https://github.com/polymerelements/paper-menu-button) - A button that opens up a menu overlay
 * [`paper-tooltip`](https://github.com/polymerelements/paper-tooltip) - A tooltip that shows on hover
 * [`paper-badge`](https://github.com/polymerelements/paper-badge) - A circular text badge representing a status or notification
