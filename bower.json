@@ -55,5 +55,6 @@
     "paper-toggle-button": "PolymerElements/paper-toggle-button#^1.0.0",
     "paper-toolbar": "PolymerElements/paper-toolbar#^1.0.0",
     "paper-tooltip": "PolymerElements/paper-tooltip#^1.0.0"
-  }
+  },
+  "main": "paper-elements.html"
 }
