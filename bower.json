@@ -39,6 +39,7 @@
     "paper-icon-button": "PolymerElements/paper-icon-button#^1.0.0",
     "paper-input": "PolymerElements/paper-input#^1.0.0",
     "paper-item": "PolymerElements/paper-item#^1.0.0",
+    "paper-listbox": "polymerelements/paper-listbox#^1.0.0",
     "paper-material": "PolymerElements/paper-material#^1.0.0",
     "paper-menu-button": "PolymerElements/paper-menu-button#^1.0.0",
     "paper-menu": "PolymerElements/paper-menu#^1.0.0",
