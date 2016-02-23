@@ -6,17 +6,18 @@ The paper elements are a set of UI components designed to implement Google's [ma
 
 ### Elements recently released
 
+* [`paper-swatch-picker`](https://github.com/polymerelements/paper-swatch-picker) - A material design colors swatch picker
 * [`paper-listbox`](https://github.com/polymerelements/paper-listbox) - An alternative to `paper-menu` with a different interface, with much better accessibility and performance.
 * [`paper-menu-button`](https://github.com/polymerelements/paper-menu-button) - A button that opens up a menu overlay
 * [`paper-tooltip`](https://github.com/polymerelements/paper-tooltip) - A tooltip that shows on hover
 * [`paper-badge`](https://github.com/polymerelements/paper-badge) - A circular text badge representing a status or notification
 * [`paper-card`](https://github.com/polymerelements/paper-card) - A material design-style card
 * [`paper-dropdown-menu`](https://github.com/polymerelements/paper-dropdown-menu) - A material design-style browser select element
-* [`paper-submenu`](https://github.com/polymerelements/paper-menu) - A material design-style menu with nestable subsections 
+* [`paper-submenu`](https://github.com/polymerelements/paper-menu) - A material design-style menu with nestable subsections
 
 ### Elements in progress
 
-We're currently working hard on honing existing elements and fixing open issues. 
+We're currently working hard on honing existing elements and fixing open issues.
 
 ### Elements planned
 _Elements we're planning on building soon but haven't started yet_
