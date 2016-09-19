@@ -9,7 +9,8 @@
   "keywords": [
     "web-components",
     "polymer",
-    "paper"
+    "paper",
+    "element-collection"
   ],
   "repository": {
     "type": "git",
