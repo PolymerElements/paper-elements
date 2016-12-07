@@ -1,6 +1,6 @@
 {
   "name": "paper-elements",
-  "version": "1.0.7",
+  "version": "2.0.0",
   "homepage": "https://github.com/PolymerElements/paper-elements",
   "authors": [
     "The Polymer Authors"
@@ -25,12 +25,24 @@
     "tests"
   ],
   "dependencies": {
-    "paper-input-elements": "PolymerElements/paper-input-elements#*",
-    "paper-overlay-elements": "PolymerElements/paper-overlay-elements#*",
-    "paper-ui-elements": "PolymerElements/paper-ui-elements#*",
-    "paper-behaviors": "PolymerElements/paper-behaviors#*",
-    "paper-ripple": "PolymerElements/paper-ripple#*",
-    "paper-styles": "PolymerElements/paper-styles#*"
+    "paper-input-elements": "PolymerElements/paper-input-elements#2.0-preview",
+    "paper-overlay-elements": "PolymerElements/paper-overlay-elements#2.0-preview",
+    "paper-ui-elements": "PolymerElements/paper-ui-elements#2.0-preview",
+    "paper-behaviors": "PolymerElements/paper-behaviors#2.0-preview",
+    "paper-ripple": "PolymerElements/paper-ripple#2.0-preview",
+    "paper-styles": "PolymerElements/paper-styles#2.0-preview"
   },
-  "main": "paper-elements.html"
+  "main": "paper-elements.html",
+  "variants": {
+    "1.x": {
+      "dependencies": {
+        "paper-input-elements": "PolymerElements/paper-input-elements#*",
+        "paper-overlay-elements": "PolymerElements/paper-overlay-elements#*",
+        "paper-ui-elements": "PolymerElements/paper-ui-elements#*",
+        "paper-behaviors": "PolymerElements/paper-behaviors#*",
+        "paper-ripple": "PolymerElements/paper-ripple#*",
+        "paper-styles": "PolymerElements/paper-styles#*"
+      }
+    }
+  }
 }
